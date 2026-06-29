@@ -1,0 +1,6 @@
+scholarly>=1.7.0
+semanticscholar>=0.8.0
+bibtexparser>=1.4.0
+crossref-commons>=0.0.8
+metapub>=0.5.5
+networkx>=3.2.0
